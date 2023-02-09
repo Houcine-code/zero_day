@@ -1,1 +1,1 @@
-Project created locally
+Directory for vagrant projects
